@@ -6,3 +6,6 @@
 - Pointer generator BPE-to-BPE model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/180eWHmBpWFIqFvMMTCuqtD9Ua03iAVe1?usp=sharing)
 - Pointer generator SR-to-SR model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/181RTu9EMhDEPPphZ3MI24sEbnZxtyWVw?usp=sharing)
 - Pointer generator Segment-to-Segment model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12PCGqX8-wtwFXwdeTlM4ZDWr8K1bqcbC?usp=sharing)
+
+### Additional code
+- [pgutils.py](https://github.com/yaserabdelaziz/pgutils/blob/main/pgutils.py)
